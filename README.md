@@ -9,9 +9,9 @@ PATCH | The Patcher CSS. You need to add EMJ and/or ODF for it to take effect. [
 ODF | Apply Old Discord Font. [Original Online Theme Here](https://raw.githubusercontent.com/Overimagine1/old-discord-font/main/source.css) | https://lopolin-lp.github.io/better-discord-font/css/ODF.css | TBA
 
 ### Local Theme Only
-Name | Description | Online Theme Link | Download Link
+Name | Description | Download Link
 -|-|-|-
-EMJ | Imports the Emoji Font, doesn't apply it however, use PATCH for that. | https://lopolin-lp.github.io/better-discord-font/css/EMJ.css | TBA
+EMJ | Imports the Emoji Font, doesn't apply it however, use PATCH for that. | TBA
 
 ## How to use - Vencord
 ### Local Theme
