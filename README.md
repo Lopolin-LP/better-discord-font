@@ -5,8 +5,7 @@ CSS to revert Discord's font change and use Noto Emoji Color instead of your sys
 ### Online or Local Theme
 Name | Description
 -|-
-PATCH | The Patcher CSS. You need to add EMJ and/or ODF for it to take effect.
-PATCH-BB | Same as PATCH, however makes it work with [BasicBackground](https://mwittrien.github.io/).
+PATCH | The Patcher CSS. You need to add EMJ and/or ODF for it to take effect. [BasicBackground](https://mwittrien.github.io/) Patch included.
 ODF | Apply Old Discord Font. [Online Theme Here; Or Copy + Paste into Local File](https://raw.githubusercontent.com/Overimagine1/old-discord-font/main/source.css)
 
 ### Local Theme Only
