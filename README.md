@@ -10,7 +10,7 @@ ODF | Apply Old Discord Font. [Original Online Theme Here](https://raw.githubuse
 
 ### Local Theme Only
 Name | Description | Download Link
--|-|-|-
+-|-|-
 EMJ | Imports the Emoji Font, doesn't apply it however, use PATCH for that. | TBA
 
 ## How to use - Vencord
