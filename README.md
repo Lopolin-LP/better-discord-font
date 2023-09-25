@@ -27,6 +27,13 @@ EMJ | Imports the Emoji Font, doesn't apply it however, use PATCH for that. | [D
 1. Go to User Settings > Themes > Online Themes
 2. Paste in the URLs Found above.
 
+## FAQ
+### Q: I applied the Emoji Patch, but Discords Emojis are still there!
+A: The Emoji Patch doesn't replace Discords Emojis, but your operating systems emojis. Here's an example:
+![image](https://github.com/Lopolin-LP/better-discord-font/assets/82715586/35c13aea-6932-491d-a451-312e62c11431)
+
+If you wish to change Discords Emojis, take a look at [mwittrien's Emoji Replace](https://mwittrien.github.io) Theme. You must search for it on his github.io website.
+
 ## Credits
 - [Old Discord Font CSS by Overimagine1](https://github.com/Overimagine1/old-discord-font)
 - [BasicBackground by mwittrien](https://mwittrien.github.io)
