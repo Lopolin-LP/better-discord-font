@@ -1,3 +1,5 @@
+# BetterDiscordFont has been moved! https://github.com/Lopolin-LP/custom-discord-themes/tree/main/better-discord-font
+
 # [BetterDiscordFont](https://github.com/Lopolin-LP/better-discord-font/)
 CSS to revert Discord's font change and use Noto Emoji Color instead of your system's Emojis. Compatible with BasicBackground.
 
